@@ -1,2 +1,2 @@
 # HydroHub
-ADD DESCRIPTION LATER
+Portfolio of HydroHub Project Code and Materials
